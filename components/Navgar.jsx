@@ -12,6 +12,7 @@ export default function Navbar(){
            alt="Eventry"
            width={135}
            height={135}
+          
            />
         </Link>
       </div>
